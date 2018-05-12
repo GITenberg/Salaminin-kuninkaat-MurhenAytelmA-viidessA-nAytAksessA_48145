@@ -1,4 +1,8 @@
 _repo: Salaminin-kuninkaat-MurhenAytelmA-viidessA-nAytAksessA_48145
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Runeberg, Johan Ludvig
@@ -8,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2842
     wikipedia: http://en.wikipedia.org/wiki/Johan_Ludvig_Runeberg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48145#Salaminin-kuninkaat-MurhenAytelmA-viidessA-nAytAksessA
 gutenberg_issued: '2015-02-03'
 gutenberg_type: Text
 identifiers:
